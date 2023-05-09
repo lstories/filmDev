@@ -1,5 +1,14 @@
 # filmdev
 
+## 毕业设计后台前端代码
+### 使用技术
+- Vue.js 2.x
+- vue-router
+- axios
+### 使用组件库
+- element-UI
+- Echarts
+
 ## Project setup
 ```
 npm install
